@@ -1,0 +1,11 @@
+name: Dungeons
+version: '${project.version}'
+main: com.carson.dungeons.Dungeons
+api-version: 1.18
+authors: [ Carson ]
+description: Create playable dungeons that play through for cash rewards!
+commands:
+  dungeons:
+    description: Main dungeons command
+  dungeons createdungeon:
+    description: Starts dungeon creation process
